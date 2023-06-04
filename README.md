@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fikri Al Jauzi</h1>
-<h3 align="center">I'm a Junior Backend Developer @ Kamar Pelajar</h3>
-<h5 align="center">I'm a Informatic Engineering Student of Universitas Tanjungpura</h5>
+<h2 align="center">I'm a Junior Backend Developer @ Kamar Pelajar</h2>
+<h4 align="center">I'm a Informatic Engineering Student of Universitas Tanjungpura</h4>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vendot&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -17,15 +17,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vendot&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vendot&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
