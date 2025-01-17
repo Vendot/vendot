@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fikri Al Jauzi</h1>
 <h3 align="center">A passionate Product Manager & Backend Developer</h3>
-🔭 I’m currently working on [Kamar Pelajar](https://kamarpelajar.id/)<br>
-👨‍💻 All of my projects are available at https://fikrialjauzi.vercel.app/<br>
-📄 Know about my experiences https://www.linkedin.com/in/fikri-al-jauzi/<br>
-📫 How to reach me **fikrialjauzi.works@gmail.com**
 
+🔭 I’m currently working on [Kamar Pelajar](https://kamarpelajar.id)
+</br>👨‍💻 All of my projects are available at [fikrialjauzi.vercel](https://fikrialjauzi.vercel.app) <br>
+📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fikri-al-jauzi) <br>
+📫 How to reach me **fikrialjauzi.works@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vendot.al) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fikri-al-jauzi) 
@@ -38,7 +38,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vendot&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vendot&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
